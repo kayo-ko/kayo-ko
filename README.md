@@ -1,6 +1,6 @@
 ![Hi there gif](https://github.com/kayo-ko/kayo-ko/assets/62913271/7b5df04b-0e67-44c3-ab9a-90d1343a36b9)
 
-## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## About me
 - 🖥  Data Scientist in the making.
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Data Science in Rio de Janeiro, Brazil with hopes of making my Master's abroad.
 - 🌐 Eager to collect personal and professional experiences abroad.
@@ -35,3 +35,18 @@
 <a href="mailto:kayo_reis1@hotmail.com" target="blank">
   <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:kayo_reis1@hotmail.com" alt="your-email"/>
 </a>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/kayo-ko/kayo-ko/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/kayo-ko/kayo-ko/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/kayo-ko/kayo-ko/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg"
+  />
+</picture>
