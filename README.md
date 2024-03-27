@@ -2,7 +2,7 @@
 
 ## About me
 - 🖥  Data Scientist in the making.
-- 🎓 Studying Data Science in Rio de Janeiro, Brazil with hopes of making my Master's abroad.
+- 🎓 Doing Bachelor's in Data Science in Rio de Janeiro, Brazil with hopes of making my Master's abroad.
 - 🌐 Eager to collect personal and professional experiences abroad.
 - 🧠 Always searching and accepting new learnings with a open mind.
 
