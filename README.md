@@ -1,8 +1,8 @@
 ![Hi there gif](https://github.com/kayo-ko/kayo-ko/assets/62913271/7b5df04b-0e67-44c3-ab9a-90d1343a36b9)
 
 ## About me
-- 🖥  Junior Data Scientist.
-- 🎓 Doing Bachelor's in Data Science in Rio de Janeiro, Brazil with hopes of making my Master's abroad.
+- 🖥  Data Scientist.
+- 🎓 Bachelor's in Data Science in Rio de Janeiro, Brazil.
 - 🌐 Eager to collect personal and professional experiences abroad.
 - 🧠 Always searching and accepting new learnings with a open mind.
 
